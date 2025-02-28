@@ -275,7 +275,7 @@ I'm here to:
 
 Remember: While I'm here to support you, I'm not a substitute for professional mental health care. If you're experiencing a crisis, please reach out to professional services.
 
-Hi ${user.display_name}! How are you feeling today?`,
+Hi ${userName}! How are you feeling today?`,
           isBot: true
         };
         setMessages([introMessage]);
