@@ -409,9 +409,7 @@ Hi ${userName}! How are you feeling today?`,
           </Typography>
 
           <Typography paragraph align="center" sx={{ color: currentTheme.textSecondary }}>
-            Created by Ankit Kumar Singh and Bhawani Lal <br/> A project submitted in partial fulfilment of 
-requirements for degree of  
-Bachelor of Science in Computer Science <br/> IIMT UNIVERSITY, Ganganagar Meerut
+            Created by Ankit Kumar Singh and Bhawani Lal
           </Typography>
 
           <Typography paragraph>
